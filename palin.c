@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-void main()
+void palindrome()
 {
    int n, reverse = 0, t;
  
