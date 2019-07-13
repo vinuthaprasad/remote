@@ -4,7 +4,7 @@ void fact()
 {
   int c, n, fact = 1;
  
-  printf("Enter a number to calculate it's factorial no \n");
+  printf("Enter a number to calculate it's factorial number \n");
   scanf("%d", &n);
  
   for (c = 1; c <= n; c++)
