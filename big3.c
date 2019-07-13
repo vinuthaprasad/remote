@@ -3,7 +3,7 @@ void big()
 { 
     int A, B, C; 
   
-    printf("Enter three numbers: "); 
+    printf("Enter three numbers to check largest number: "); 
     scanf("%d %d %d", &A, &B, &C); 
   
     if (A >= B) { 
