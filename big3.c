@@ -8,7 +8,7 @@ void big()
   
     if (A >= B) { 
         if (A >= C) 
-            printf("%d is the largest number.", A); 
+            printf("%d is the largest number among three.", A); 
         else
             printf("%d is the largest number.", C); 
     } 
